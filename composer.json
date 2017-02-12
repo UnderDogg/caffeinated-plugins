@@ -18,4 +18,10 @@
             "Caffeinated\\Plugins\\": "src"
         }
     }
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.0-dev"
+        }
+    },
+    "minimum-stability": "dev"
 }
